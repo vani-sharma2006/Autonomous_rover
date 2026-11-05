@@ -180,6 +180,6 @@ struct RoverState
 
 ## Author
 
-Mechatronics Engineering Student
+Vani Sharma: Mechatronics and Robotics Engineering Student
 
 Focused on Autonomous Vehicles, Robotics, Machine Learning, and Controls Engineering.
